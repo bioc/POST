@@ -2,7 +2,7 @@ Package: POST
 Type: Package
 Title: Projection onto Orthogonal Space Testing for High Dimensional
         Data
-Version: 0.99.6
+Version: 1.0.0
 Author: Xueyuan Cao <xueyuan.cao@stjude.org> and Stanley.pounds
         <stanley.pounds@stjude.org>
 Maintainer: Xueyuan Cao <xueyuan.cao@stjude.org>
