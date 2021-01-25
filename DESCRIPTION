@@ -2,7 +2,7 @@ Package: POST
 Type: Package
 Title: Projection onto Orthogonal Space Testing for High Dimensional
         Data
-Version: 1.15.0
+Version: 1.15.1
 Author: Xueyuan Cao <xueyuan.cao@stjude.org> and Stanley.pounds
         <stanley.pounds@stjude.org>
 Maintainer: Xueyuan Cao <xueyuan.cao@stjude.org>
@@ -14,3 +14,4 @@ Imports: stats, CompQuadForm, Matrix, survival, Biobase, GSEABase
 License: GPL (>= 2)
 biocViews: Microarray, GeneExpression
 LazyLoad: yes
+PackageStatus: Deprecated
